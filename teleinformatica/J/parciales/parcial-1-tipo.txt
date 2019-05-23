@@ -1,0 +1,19 @@
+
+Parte Teórica:
+
+1-Nombrar las funciones de la capa fisica
+
+2-¿Porque se estudian las redes en capas?
+
+3-Describir los diferentes medios guiados que existen(cable coaxial/fibra optica/par trenzado)
+
+4-¿Cuál es la diferencia entre ruido termico y el ruido blanco?
+
+
+Parte Práctica:
+
+5-¿Cual es el ancho de banda si tengo una velocidad de transmision de 2 mbit/seg y un nivel de modulacion de 128 PSK (Nyquist)?
+
+6-¿Cual es la velocidad de transmision es un ancho de banda de 8 mhz que presenta un nivel de señal/ruid de 30 db (Formula de Shannon)?
+
+7-¿Cual es la longitud de onda en una señal que tiene una frecuencia de 100KHz?
